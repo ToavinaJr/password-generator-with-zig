@@ -19,10 +19,7 @@ Ce programme génère des mots de passe aléatoires avec des options pour inclur
 
 Assurez-vous d’avoir **Zig 0.14.x** installé :  
 
-```bash
-    sudo snap install zig --beta --classic
-    zig version
-```
+[Télécharger Zig Ici](https://github.com/ziglang/zig/wiki/Install-Zig-from-a-Package-Manager)
 
 ## ▶️ Utilisation
 
